@@ -314,7 +314,7 @@ def main():
     st.sidebar.markdown("""
     <div class="sidebar-header">
         <h2>📝 Personal Blog</h2>
-        <p>Your digital writing space</p>
+        <p>Technical Blog posts</p>
     </div>
     """, unsafe_allow_html=True)
     
