@@ -1,0 +1,2 @@
+# This file ensures the data directory is created
+# Blog posts will be stored in blog_posts.json in this directory

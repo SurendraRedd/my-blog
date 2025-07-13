@@ -1,0 +1,20 @@
+[
+  {
+    "id": "342453ba-e7ed-4a25-a901-15e525d566ce",
+    "title": "GUI-based Python code generator",
+    "content": "GUI-based Python code generator available on\nJupyter Lab | Jupyter Notebook | Google Colab\n\nhttps://visualpython.ai/",
+    "author": "Surendra",
+    "created_at": "2025-07-13T11:24:09.606121",
+    "updated_at": null,
+    "likes": 0
+  },
+  {
+    "id": "9bd5888d-e917-4641-a252-93b37a7a39d3",
+    "title": "Tool: CK-X",
+    "content": "A realistic exam simulator for CKAD, CKA, and CKS featuring timed sessions and hands-on labs with pre-configured clusters.\n\nhttps://ckx.nishann.com/",
+    "author": "Surendra",
+    "created_at": "2025-07-13T11:25:01.128288",
+    "updated_at": null,
+    "likes": 0
+  }
+]
